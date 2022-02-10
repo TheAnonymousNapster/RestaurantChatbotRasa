@@ -1,11 +1,7 @@
 # RestaurantChatbotRasa
 
 # Restaurant ChatBot CCNLP Mini Project :
-##  Members: 
-- Nachiket Dunbray
-- Jayesh Katade
-- Sakshi Lad
-- Sparsh Nimje
+
 
 A restaurant chatbot using open source chat framework RASA : https://rasa.com/. Integrates with Zomato : https://developers.zomato.com/?lang=tr API to fetch restaurant information.
 
